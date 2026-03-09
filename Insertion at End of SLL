@@ -58,9 +58,9 @@ int main()
 
     head = NULL;
 
-    insertEnd(810);
-    insertEnd(209);
-    insertEnd(370);
+    insertEnd(10);
+    insertEnd(20);
+    insertEnd(30);
 
     printf("Linked List after insertion at end:\n");
     display();
